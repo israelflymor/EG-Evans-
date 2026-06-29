@@ -1,0 +1,6 @@
+{
+  "name": "EG Evans Auto Services",
+  "description": "Expert automotive diagnostics and custom auto care for Dahlonega, GA and the surrounding Lumpkin County area.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
